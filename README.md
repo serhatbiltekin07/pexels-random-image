@@ -9,3 +9,7 @@ Axios ile API'den veri çekilir, CSS ile ortalanmış ve sade bir arayüz tasarl
 - Axios
 - Pexels API
 - CSS
+
+## 🎥 Uygulama Önizlemesi
+
+![Demo](./assets/hareketli resim.gif)
