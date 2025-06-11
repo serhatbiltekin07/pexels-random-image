@@ -20,7 +20,7 @@ function App() {
       });
       const photo = response.data.photos[0];
       if (photo) {
-        setImageUrl(photo.src.large2x); // yüksek kaliteli versiyon
+        setImageUrl(photo.src.large2x); 
       }
     } catch (err) {
       console.log("Hata:", err);
