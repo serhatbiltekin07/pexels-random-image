@@ -1,4 +1,3 @@
-![hareketli resim](https://github.com/user-attachments/assets/ff042975-aa94-4ccb-9d8b-18edab066ae2)# Pexels Rastgele Görsel Uygulaması
 
 Bu proje, React ve Pexels API kullanarak her tıklamada yüksek kaliteli rastgele bir görsel gösterir. 
 Axios ile API'den veri çekilir, CSS ile ortalanmış ve sade bir arayüz tasarlanmıştır.
