@@ -9,7 +9,7 @@ function App() {
       const response = await axios.get("https://api.pexels.com/v1/search", {
         headers: {
           Authorization:
-            "0rtPQOKVdAKNiQM0SfMNUleTLtbrDf19FC7s3tbwhRa5LEgUi3Q98DMK", // 🔐 Buraya kendi API Key'ini yaz
+            "----------------------------------------------", //  Buraya kendi API Key'ini yazınız
         },
         params: {
           query: "vertical",
