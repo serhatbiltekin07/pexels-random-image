@@ -1,0 +1,41 @@
+/* index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(#e66465, #9198e5); /* arka plan rengi */
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  height: 900px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-top: 20px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  transition: 0.1s ease;
+}
+
+button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #ffffff;
+  color: #1e1e1e;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ddd;
+}
